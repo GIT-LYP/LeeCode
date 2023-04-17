@@ -2,5 +2,4 @@
 
 Hi giters
 
-
-这是我第一次用github来存储我的代码，也通过这个平台来记录我学习算法的20天。
+This was the first time I used github to store my code, and I also used the platform to record my 20 days of learning algorithms
